@@ -1,0 +1,9 @@
+
+
+*.svg
+*.zip
+ideas.txt
+pseudocode.txt
+*.xcf
+assets/*
+bin/*
